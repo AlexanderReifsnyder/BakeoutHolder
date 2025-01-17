@@ -1,2 +1,3 @@
 # BakeoutHolder
-Heated JEOL-compatible holder for baking samples in a dry pumping station
+The goal of this project was to create a heated holder for baking samples in a dry pumping station. The design is currenty in the prototype stage and should not be considered an official release. You may encounter incomplete features or unexpected behaviors - proceed at your own discretion. Th repository currently has STEP files for all physical components broken into folders depending on manufacturing method, and a BOM with links to the products used in our prototype.
+This project has been released under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
